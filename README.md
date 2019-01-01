@@ -1,5 +1,5 @@
 # kermit
-The code for the Kermit discord bot. Have fun
+*The code for the Kermit discord bot! Have fun*
 
 Kermit runs on the rewrite branch of discord.py, so if there are errors check you have the right version
 
