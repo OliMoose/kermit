@@ -15,3 +15,4 @@ and excuse the messy code in places aha,
 deepfry and ytmp3 in particular are awful to read
 
 
+ALSO run.sh is just a shell script that keeps on running kermit, so if the program crashes/kills itself/kermits suicide it immediately restarts
