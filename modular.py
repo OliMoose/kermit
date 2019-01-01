@@ -85,5 +85,5 @@ async def on_member_join(member):
         await member.add_roles(role)
 
 
-client.run('NDc4MzI2NzYxMzE5NDMyMjI3.DuhI4Q.uNoTbK07TqDUGJdDRESB2MI-yEY')
+client.run('')
 
